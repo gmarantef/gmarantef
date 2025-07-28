@@ -1,5 +1,8 @@
 # Hi, I'm Guillermo 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo%20Profile-blue?logo=linkedin)](https://www.linkedin.com/in/guillermomarantefreire)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?logo=microsoft-outlook)](mailto:gmarantef@hotmail.com)
+
 I'm a Data Engineer, amateur basketball player with pro-level confidence 🏀, and a passionate fan of *The Lord of the Rings* 🧙‍♂️.
 
 ## 🚀 What I Do
@@ -21,21 +24,6 @@ I'm actively exploring **generative AI** to automate workflows, plan projects, a
 - Modern data frameworks and tools
 - Designing and experimenting with **AI-driven workflows**
 - **Integrating AI agents** into new tools and internal platforms to enhance automation and decision-making
-
----
-
-## 📫 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo%20Profile-blue?logo=linkedin)](https://www.linkedin.com/in/guillermomarantefreire)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?logo=microsoft-outlook)](mailto:gmarantef@hotmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![Guillermo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmarantef&show_icons=true&theme=default&hide=prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmarantef&layout=compact)
 
 ---
 
