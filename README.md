@@ -1,29 +1,37 @@
-# Hi, I'm Guillermo 👋
+# Hi, I'm Guillermo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo%20Profile-blue?logo=linkedin)](https://www.linkedin.com/in/guillermomarantefreire)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?logo=microsoft-outlook)](mailto:gmarantef@hotmail.com)
 
-I'm a Data Engineer, amateur basketball player with pro-level confidence 🏀, and a passionate fan of *The Lord of the Rings* 🧙‍♂️.
+Data Engineer turned DataOps — I started working close to the data and progressively moved toward the systems that make it flow: infrastructure, deployments, clusters, monitoring, and everything that keeps data pipelines running reliably in production.
 
-## 🚀 What I Do
-I currently work on data integration projects at **Inditex**, building and managing modern data pipelines in the cloud. Previously, I held similar roles at **Odilo**, **Weplan Analytics**, and worked as a Data Analyst at **Sygris**.
+I'm based in A Coruña, Galicia 🌊 — and I care about building things that have a real impact, not just things that scale.
 
-I'm progressively focusing on **DataOps**, automation, and orchestration in data workflows.
+---
 
-## 🛠️ Tech Stack
-- **Cloud:** AWS, GCP
-- **Infrastructure as Code:** Terraform
-- **Orchestration & Pipelines:** Airflow, DBT, Step Functions
-- **Languages:** Python, SQL, Bash
-- **Monitoring:** Datadog
+## Stack
 
-## 🤖 AI & Automation
-I'm actively exploring **generative AI** to automate workflows, plan projects, and generate code. Particularly interested in integrating **intelligent agents** into data engineering tasks.
+- **Infrastructure** — Terraform · Docker · AWS · GCP · CI/CD · Datadog · Vagrant  
+- **Processing** — Python · PySpark · SQL · Apache Airflow  
+- **Storage** — BigQuery · Snowflake  
+- **Tooling** — Shell · Git · GitHub Copilot
 
-## 🔧 Current Interests
-- Modern data frameworks and tools
-- Designing and experimenting with **AI-driven workflows**
-- **Integrating AI agents** into new tools and internal platforms to enhance automation and decision-making
+---
+
+## Projects
+
+- **[dotfiles](https://github.com/gmarantef/dotfiles)** — Reproducible system bootstrap for Linux/macOS using chezmoi. Declarative dotfiles, modular feature installation, Bitwarden secrets integration.
+- **[erp-odoo-community](https://github.com/gmarantef/erp-odoo-community)** — Odoo Community ERP on a local server with Docker Compose, Tailscale remote access, and GitHub Actions CI/CD.
+- **[cv](https://github.com/gmarantef/cv)** — CV in Markdown, version-controlled and exportable to PDF via Pandoc.
+
+---
+
+## Beyond work
+
+I'm into hardware as much as software — Arduino, drones, DIY servers, and anything that involves building something physical that runs code. Home infrastructure is a hobby as much as a discipline. Currently building my smart home on top of Home Assistant: local-first, no subscriptions, full control.
+
+I'm also exploring local AI models and what becomes possible when you run inference on your own hardware, away from the cloud and the big platforms.
+
+Strong believer in open source — not just as a set of tools, but as a way of thinking about technology: freedom, community, and building on the shoulders of others rather than behind closed doors. Always looking for projects worth contributing to.
 
 ---
 
