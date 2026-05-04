@@ -20,7 +20,7 @@ I'm based in A Coruña, Galicia 🌊 and I care about building things that have 
 ## Projects
 
 - **[dotfiles](https://github.com/gmarantef/dotfiles)**: Reproducible system bootstrap for Linux/macOS using chezmoi. Declarative dotfiles, modular feature installation, Bitwarden secrets integration.
-- ** Odoo Community ERP on a local server with Docker Compose, Tailscale re: mote access, and GitHub Actions CI/CD.
+- **[erp-odoo-community](https://github.com/gmarantef/erp-odoo-community)**: Odoo Community ERP on a local server with Docker Compose, Tailscale remote access, and GitHub Actions CI/CD.
 - **[ai-observability-stack](https://github.com/gmarantef/ai-observability-stack)**: Self-hosted observability stack for local and remote LLM runtimes. Prometheus for hardware metrics, OTel Collector for semantic traces and Grafana for visualization.
 - **[cv](https://github.com/gmarantef/cv)**: CV in Markdown, version-controlled and exportable to PDF via Pandoc.
 
